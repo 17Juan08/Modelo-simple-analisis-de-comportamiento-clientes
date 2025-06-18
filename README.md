@@ -48,7 +48,7 @@ Se busca determinar cómo ciertas variables (como edad, ingresos, género y háb
 
 - Agrupaciones claras de perfiles de cliente  
 - Comportamientos comunes por grupo  
-- Recomendaciones para futuras estrategias de segmentación
+
 
 ## 🚀 Cómo ejecutar
 
